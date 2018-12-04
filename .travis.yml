@@ -1,3 +1,4 @@
 language: cpp
 OS windows
-script: - cmake ./
+script:
+- cmake ./
